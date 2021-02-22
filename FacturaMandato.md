@@ -1,16 +1,7 @@
-## Welcome to GitHub Pages
+## Factura de mandato
 
- 
-
-You can use the [editor on GitHub](https://github.com/SaphetyCol/SaphetyCol-WebAPI.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
- 
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
- 
-
-### Markdown
+ a continuacion se muestra la secciona incluir en el DTO De factura de Venta para convertirla en unafactura de mandato
+### Titulo pequeñito
 
  
 
