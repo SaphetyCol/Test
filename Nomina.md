@@ -1,3 +1,7 @@
+layout: page
+title: "Nomina"
+permalink: /Nomina.md
+
 ## Nomina Electronica (DRAFT)
 A continuacion se muestra la informacion general para la nomina electronica.
 
